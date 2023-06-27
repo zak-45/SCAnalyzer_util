@@ -1,0 +1,23 @@
+{
+	"name": "SCAnalyzer_util",
+	"type": "Empty",
+	"path": "Custom",
+	
+	"version": "1.0.0",
+	"description": "Utility for SCAnalyzer",
+	"url":"",
+	"downloadURL": "",
+	"hasInput": true,
+	"hasOutput": true, 
+	"hideDefaultCommands": false,
+
+	"parameters": {
+	},
+	"values": {	
+	},
+	"scripts": [
+		"SCAnalyzer_util.js"
+	],
+	"commands": {
+	}
+}
